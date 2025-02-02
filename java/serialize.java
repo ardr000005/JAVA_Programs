@@ -3,7 +3,7 @@ class seri
 {
     public static void main(String args[])throws IOException,FileNotFoundException,ClassNotFoundException
     {
-        byte content[] = "Aneesh is a gay".getBytes();
+        byte content[] = "Good Morning all".getBytes();
         File f = new File("sample.txt");
         FileOutputStream fout = new FileOutputStream("sample.txt");
         fout.write(content);
