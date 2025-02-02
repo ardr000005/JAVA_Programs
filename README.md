@@ -4,7 +4,7 @@ This repository contains a collection of basic **Java programs**, including **co
 
 ## 📌 Features
 - **Basic Java Programs**: Covers fundamental concepts like loops, arrays, functions, and OOP principles.
-- **Data Structures & Algorithms**: Includes basic implementations of sorting, searching, and recursion.
+- **Data Structures & Algorithms**: Includes basic implementations of sorting
 - **File Handling**: Programs demonstrating reading and writing files in Java.
 - **GUI Applications**: Simple GUI-based programs built using **Swing** and **JavaFX**.
 - **Exception Handling**: Demonstrates error handling and custom exceptions.
