@@ -14,7 +14,6 @@ All the program files are present inside the `java` folder.
 ## 🛠 Technologies Used
 - **Java SE** (Standard Edition)
 - **Swing** (For GUI-based applications)
-- **JavaFX** (For enhanced UI development)
 - **JDK 8+** (Recommended)
 
 ## 🚀 Getting Started
