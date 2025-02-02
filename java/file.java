@@ -2,7 +2,7 @@ import java.io.*;
 class file{
     public static void main(String args[])throws FileNotFoundException {
         int ch;
-        byte content[]="Anakin is gay".getBytes();
+        byte content[]="Hello Guys Welcome".getBytes();
         File f = new File("sample.txt");
         FileOutputStream fo = new FileOutputStream("sample.txt");
         FileInputStream fin = new FileInputStream("sample.txt");
