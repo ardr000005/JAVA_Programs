@@ -27,11 +27,7 @@ All the program files are present inside the `java` folder.
    ```bash
    javac ProgramName.java
    java ProgramName
-   ```
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
+   
 ---
 💡 Happy Coding! 🚀
 
